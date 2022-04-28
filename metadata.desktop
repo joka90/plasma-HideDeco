@@ -1,0 +1,18 @@
+[Desktop Entry]
+Name=HideDeco When Maximized and we have dock
+Comment=Hide titlebar and window frame when window is maximized and we have a dock.
+Icon=preferences-system-windows-script-test
+
+Type=Service
+
+X-Plasma-API=javascript
+X-Plasma-MainScript=code/main.js
+
+X-KDE-PluginInfo-Author=Johan Kallstrom
+X-KDE-PluginInfo-Email=joka90@gmail.com
+X-KDE-PluginInfo-Name=HideDeco
+X-KDE-PluginInfo-Version=1
+
+X-KDE-PluginInfo-Depends=
+X-KDE-PluginInfo-License=BSD
+X-KDE-ServiceTypes=KWin/Script
